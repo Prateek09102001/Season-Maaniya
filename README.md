@@ -12,6 +12,10 @@ Season-Maniya is a website showcasing top destinations in India categorized by s
 6. [Contact](#contact)
 7. [Website Link](#website-link)
 8. [Screenshot](#screenshot)
+    1. [LightHouse Report](#lighthouse-report)
+    2. [View in Laptop](#view-in-laptop)
+    3. [View in Mobile](#view-in-mobile)
+
 
 ## Description
 
@@ -42,7 +46,7 @@ We welcome contributions to enhance Season-Maniya. If you'd like to contribute, 
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -52,6 +56,15 @@ For inquiries and feedback, please contact us at Prateek09102001@gmail.com.
 
 Visit Season-Maniya online at [https://www.season-maniya.com](https://season-maaniay.netlify.app/).
 
-## Screenshot
+## Screenshots
 
-![Screenshot](screenshot.png)
+
+### LightHouse Report
+![LightHouse Report](https://github.com/Prateek09102001/Season-Maaniya/assets/127758351/951f112d-21dd-4ec1-84d5-170ec702ee59)
+
+### View in Laptop
+![View in Laptop](https://github.com/Prateek09102001/Season-Maaniya/assets/127758351/90aab8be-04fd-49a3-b6b3-c5f530453bf7)
+
+### View in Mobile
+![image](https://github.com/Prateek09102001/Season-Maaniya/assets/127758351/7e75ecab-7943-49cd-89af-49515cd0d3eb)
+
